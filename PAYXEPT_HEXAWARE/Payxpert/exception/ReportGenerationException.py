@@ -1,0 +1,2 @@
+class ReportGenerationException(Exception):
+    pass
